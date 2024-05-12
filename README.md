@@ -36,4 +36,4 @@ Puedes encontrarme en:
 
 ## 📚 Sobre mí
 
-Me encanta resolver problemas y crear soluciones eficientes y efectivas. Mi objetivo es convertirme en un desarrollador full stack y contribuir a proyectos de código abierto. He estado 15 años trabajando de cara al público por lo que se me da bien comunicarme con los clientes y adaptarme a sus necesidades.
+Me encanta resolver problemas y crear soluciones eficientes y efectivas. <br>Mi objetivo es convertirme en un desarrollador full stack y contribuir a proyectos de código abierto. <br>He estado 15 años trabajando de cara al público por lo que se me da bien comunicarme con los clientes y adaptarme a sus necesidades.
