@@ -24,7 +24,7 @@ Soy un estudiante de DAW en IES L'estacio. Me apasiona la programación y siempr
 
 ## 🎯 Proyectos destacados
 
-- [Living Mobility](https://github.com/CainMartinez/MVC_PHP_OPP_jQuery): Marketplace de inmuebles, con PHP en el back y jQuery/JS para el front.
+- [Living Mobility](https://github.com/CainMartinez/Framework_PHP_OO_MVC_jQuery): Marketplace de inmuebles, con PHP en el back y jQuery/JS para el front.
 
 ## 📫 Contacto
 
