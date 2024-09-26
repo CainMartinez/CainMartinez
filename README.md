@@ -10,7 +10,7 @@ Soy un estudiante de DAW en IES L'estacio. Me apasiona la programación y siempr
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40" target="_blank"/>](https://jquery.com/) <br> ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" target="_blank"/>](https://www.oracle.com/java/) <br> ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" target="_blank"/>](https://www.mysql.com/) <br> ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_xml.svg" alt="xml" width="40" height="40" target="_blank"/>](https://www.w3.org/XML/) <br> ![XML](https://img.shields.io/badge/-XML-F50000?style=for-the-badge&logo=xml&logoColor=white) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" target="_blank"/>](https://www.mongodb.com/) <br> ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 
-## 💻 Sistemas operativos que domino:
+## 💻 Sistemas operativos:
 
 ||||
 |:---:|:---:|:---:|
