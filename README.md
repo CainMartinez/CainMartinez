@@ -6,9 +6,9 @@ Soy un estudiante de DAW en IES L'estacio. Me apasiona la programación y siempr
 
 ### **Backend:**
 
-| Express JS | Prisma | PHP | TypeORM | JWT |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/> <br> ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="50" height="50"/> <br> ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> <br> ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/typeorm.svg" alt="typeorm" width="50" height="50"/> <br> ![TypeORM](https://img.shields.io/badge/-TypeORM-FE6D72?style=for-the-badge&logo=typeorm&logoColor=white) | <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="50" height="50"/> <br> ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) |
+| Spring Boot | Express JS | Prisma | PHP | TypeORM | JWT |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="50" height="50"/> <br> ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/> <br> ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="50" height="50"/> <br> ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> <br> ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/typeorm.svg" alt="typeorm" width="50" height="50"/> <br> ![TypeORM](https://img.shields.io/badge/-TypeORM-FE6D72?style=for-the-badge&logo=typeorm&logoColor=white) | <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="50" height="50"/> <br> ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) |
 
 ### **Frontend:**
 
@@ -34,11 +34,11 @@ Soy un estudiante de DAW en IES L'estacio. Me apasiona la programación y siempr
 |:---:|:---:|
 | ![MVC](https://img.shields.io/badge/-MVC-007396?style=for-the-badge&logoColor=white) | ![Clean Code](https://img.shields.io/badge/-Clean%20Code-000000?style=for-the-badge&logoColor=white) |
 
-### **ERP:**
+### **Otros:**
 
-| Odoo |
-|:---:|
-| ![Odoo](https://img.shields.io/badge/-Odoo-EE02FD?style=for-the-badge&logo=odoo&logoColor=white) |
+| Docker | Odoo |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> <br> ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Odoo](https://img.shields.io/badge/-Odoo-EE02FD?style=for-the-badge&logo=odoo&logoColor=white) |
 
 ## 💻 Sistemas operativos:
 
