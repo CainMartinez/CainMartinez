@@ -53,7 +53,7 @@ Soy un estudiante de DAW en IES L'estacio. Me apasiona la programación y siempr
 
 ## 🎯 Proyectos destacados
 
-- [QoRders]([https://github.com/CainMartinez/Framework_PHP_OO_MVC_jQuery](https://github.com/CainMartinez/Laravel_SpringBoot_Vue_MySql)): Plataforma diseñada para digitalizar y optimizar la gestión de restaurantes, con la posibilidad de una ambientación temática.
+- [QoRders](https://github.com/CainMartinez/Laravel_SpringBoot_Vue_MySql): Plataforma diseñada para digitalizar y optimizar la gestión de restaurantes, con la posibilidad de una ambientación temática.
 
 ## 📫 Contacto
 
