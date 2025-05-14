@@ -1,6 +1,6 @@
 # Hola, me llamo Caín Martínez 👋
 
-Soy un estudiante de DAW en IES L'estacio. Me apasiona la programación y siempre estoy buscando aprender para mejorar mis habilidades.
+Técnico Superior en Desarrollo de Aplicaciones Web, formado en el IES L'Estació. Apasionado por la programación, con un fuerte compromiso con el aprendizaje continuo y la mejora constante de habilidades técnicas.
 
 ## 🛠️ Tecnologías y herramientas que he usado:
 
